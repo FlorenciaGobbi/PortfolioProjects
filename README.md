@@ -1,6 +1,3 @@
-# PortfolioProjects
-
-
 Data Science | Data Analyst  Portfolio Project Repository
 
 
